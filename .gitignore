@@ -4,6 +4,23 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*directory*
+*local*
+*.log
+*.txt
+*.csv
+*.json
+*.pkl
+*.pt
+*.pth
+*.h5
+*.npy
+*.npz
+*.tar.gz
+*.tar
+*.zip
+*.gz
+*.tgz
 
 # C extensions
 *.so
